@@ -461,12 +461,16 @@ li a:hover{
        
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:340px) {
     .home .home-text h1{
         font-size: 1.5rem;
       }
 
       .home .home-img img{
         width: 120px;
+      }
+
+      .box{
+        width: 270px;
       }
 }
